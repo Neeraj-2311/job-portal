@@ -168,9 +168,9 @@ The application uses comprehensive mock data including:
 
 For questions, feedback, or collaboration opportunities:
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **GitHub**: [github.com/your-username](https://github.com/your-username)
+- **Email**: [your.email@example.com](mailto:developneeraj@example.com)
+- **LinkedIn**: [linkedin.com/in/your-profile](https://www.linkedin.com/in/neeraj-fusentech/)
+- **GitHub**: [github.com/your-username](https://github.com/Neeraj-2311)
 
 ---
 

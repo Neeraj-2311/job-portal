@@ -12,7 +12,7 @@ A responsive job portal application built with React, featuring a chatbot, user 
 ### Installation
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/Neeraj-2311/job-portal
 cd job-portal-interface
 
 # Install dependencies
